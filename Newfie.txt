@@ -1,0 +1,1 @@
+Someone created a new file and committed into master
